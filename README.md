@@ -1,8 +1,8 @@
 ### Hi there 👋, I am Ben Krueger!
 
-I'm a Cyber Security Fanatic & Generic IT Fairy. I love doing riddles and solving problems. I have specialized in the area of cyber security but I'm far away from being an expert. I guess my average day is missing 8 additional hours, I do have a lovely family which is always number one! What's left of the day I use to discover new things, trying out software or even playing CTF like stuff.
+I'm a Cyber Security Fanatic & Generic IT Fairy. I love doing riddles and solving problems. I have specialized in the area of cyber security but I'm far away from being an expert. I guess my average day is missing 8 additional hours, I do have a lovely family which is always number one! What's left of the day I use to discover new things, try out software or even play CTF like stuff.
 
-I have built up quite a huge library containing code snippets, notes, hints, walkthroughs, etc. For future documentation I will use this shiny GitHub space so other people can use that information as well during their research/projects. 
+Feel free to visit my wordpress site [www.blk8.de](http://www.blk8.de), there may be some interesting posts there as well for you.
 
 <!--
 **benjamin-bk-krueger/benjamin-bk-krueger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
